@@ -17,26 +17,22 @@ List the prerequisites and dependencies for your project. For example:
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Kj1710/TIKTAKTOE-REACTNATIVE
+2. Install the dependencies: npm install
+3. Start the development server: npx react-native start 
+4. Run the application on your emulator or device:
 
-1] Clone the repository: 
-git clone https://github.com/Kj1710/TIKTAKTOE-REACTNATIVE
-2] Install the dependencies:
-npm install
-3] Start the development server:
-npx react-native start
-4] Run the application on your emulator or device:
-For Android: 
+For Android:
 npx react-native run-android
+
 For iOS:
 npx react-native run-ios
 
 
 ### Project Structure
 
+### Contact 
+1. Email: [Kjha7865@gmail.com]
 
 
-
-Contact
-Email: 
 
