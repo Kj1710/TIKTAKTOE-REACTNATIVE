@@ -11,15 +11,18 @@ A simple Tic Tac Toe game built using React Native with additional components li
 
 ### Requirements
 
-List the prerequisites and dependencies for your project. For example:
+Listing the prerequisites and dependencies for the project:
 1. React Native installed on your system
 2. Android or iOS emulator or a physical device to run the app
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/Kj1710/TIKTAKTOE-REACTNATIVE
-2. Install the dependencies: npm install
-3. Start the development server: npx react-native start 
+1. Clone the repository:
+git clone https://github.com/Kj1710/TIKTAKTOE-REACTNATIVE
+2. Install the dependencies:
+npm install
+3. Start the development server:
+npx react-native start 
 4. Run the application on your emulator or device:
 
 For Android:
@@ -28,11 +31,9 @@ npx react-native run-android
 For iOS:
 npx react-native run-ios
 
-
-### Project Structure
-
 ### Contact 
 1. Email: [Kjha7865@gmail.com]
+2. Linkedin: [https://www.linkedin.com/in/kaushal-jha-kj1710/]
 
 
 
