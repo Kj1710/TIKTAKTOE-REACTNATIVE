@@ -18,7 +18,7 @@ import {
 } from 'react-native';
 
 import Snackbar from "react-native-snackbar";
-import Icons from './Components/Icons';
+import Icons from './Components/Icons.jsx';
 
 
 function App(): JSX.Element {
