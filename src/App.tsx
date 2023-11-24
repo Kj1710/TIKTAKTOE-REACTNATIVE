@@ -29,7 +29,7 @@ function App(): JSX.Element {
   const confettiRef = useRef<LottieView>(null);
   const dance=useRef<LottieView>(null)
 
-
+// TODO: Delay the animation time
   useEffect(() => {
     if (gameWinner) {
       triggerConfetti();
@@ -211,7 +211,7 @@ function App(): JSX.Element {
         ref={dance}
         source={require("./Components/dance.json")}
         autoPlay={true}
-        loop={false}
+        loop={true}
         style={styles.dance}
         resizeMode='cover'
       />
@@ -260,7 +260,7 @@ const styles = StyleSheet.create({
   },
   gameTurnTxt: {
     fontSize: 20,
-    color: '#FFFFFF',
+    color: '#F93106',
     fontWeight: '600',
   },
   playerX: {
